@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-https://api.githubtrends.io/user/svg/steven-murray/repos?time_range=one_year&group=other&loc_metric=changed&theme=synthwaves
+[Summary](https://api.githubtrends.io/user/svg/steven-murray/repos?time_range=one_year&group=other&loc_metric=changed&theme=synthwaves)
 
 <!--
 **steven-murray/steven-murray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
